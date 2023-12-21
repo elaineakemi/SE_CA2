@@ -2036,3 +2036,867 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.21-21.48.57:364][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.12.21-21.48.57:365][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
 [2023.12.21-21.48.57:435][725]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.12.21-21.58.49:276][770]LogContentBrowser: Attempting asset rename: HealthBarWidget -> HealthBarWidget
+[2023.12.21-21.58.52:861][980]LogContentBrowser: Attempting asset rename: HealthBarWidget -> HealthBarWidget
+[2023.12.21-21.58.59:605][384]LogContentBrowser: Attempting asset rename: HealthBarWidget -> HealthStaminaBarWidget
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget_C' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.SKEL_HealthStaminaBarWidget_C' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget:GetPercent.K2Node_FunctionEntry_0' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget:GetPercent.K2Node_FunctionResult_0' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget_C:Construct' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.SKEL_HealthStaminaBarWidget_C:Tick' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.SKEL_HealthStaminaBarWidget_C:Construct' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:637][384]LogMetaData: Removing '/Game/Custom/UI/HealthStaminaBarWidget.SKEL_HealthStaminaBarWidget_C:PreConstruct' ref from Metadata '/Game/Custom/UI/HealthBarWidget.PackageMetaData'
+[2023.12.21-21.58.59:642][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-21.58.59:763][384]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-21.58.59:763][384]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter2828D3D649A66C2FE5EFB7BB533C9BE0.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-21.58.59:767][384]LogSavePackage: Moving output files for package: /Game/Custom/UI/HealthStaminaBarWidget
+[2023.12.21-21.58.59:767][384]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidget2B9A335947B339658367FBAA9FD62BDD.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/UI/HealthStaminaBarWidget.uasset'
+[2023.12.21-21.58.59:776][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 1.73 sec)
+[2023.12.21-21.58.59:796][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.21-21.58.59:811][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.21-21.58.59:820][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.12.21-21.58.59:823][384]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.21-21.58.59:823][384]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-21.58.59:823][384]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget
+[2023.12.21-21.59.59:558][431]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.21-22.03.44:121][602]BlueprintLog: New page: Compile HealthStaminaBarWidget
+[2023.12.21-22.03.44:140][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.21-22.03.44:908][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.03.44:998][638]LogSavePackage: Moving output files for package: /Game/Custom/UI/HealthStaminaBarWidget
+[2023.12.21-22.03.44:999][638]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidget7F0713DD4F2D32E609229E90981A58C4.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/UI/HealthStaminaBarWidget.uasset'
+[2023.12.21-22.03.45:003][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.82 sec)
+[2023.12.21-22.03.45:006][638]AssetCheck: New page: Asset Save: HealthStaminaBarWidget
+[2023.12.21-22.03.45:006][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget
+[2023.12.21-22.07.28:790][140]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.12.21-22.07.33:501][352]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.12.21-22.07.33:510][352]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.12.21-22.07.33:518][353]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.12.21-22.07.34:035][379]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1690)].
+[2023.12.21-22.07.34:035][379]LogContentBrowser: Attempting asset rename: NewInputAction -> NewInputAction
+[2023.12.21-22.07.34:037][379]LogContentBrowser: End creating deferred item NewInputAction
+[2023.12.21-22.07.34:076][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.21-22.07.34:079][379]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Custom/Levels/Level_Environment' took 0.016
+[2023.12.21-22.07.34:079][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.12.21-22.07.34:140][379]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.12.21-22.07.34:140][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.12.21-22.07.34:151][379]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2023.12.21-22.07.34:151][379]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter_Auto317271D9B4E090A954D9C058DBD6B15E8.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2023.12.21-22.07.34:152][379]LogFileHelpers: Auto-saving content packages took 0.073
+[2023.12.21-22.07.40:541][759]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Sprint
+[2023.12.21-22.07.40:560][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.07.40:684][759]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Sprint
+[2023.12.21-22.07.40:684][759]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/IA_SprintB984966F4260E82CE521AFAC87B0F537.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset'
+[2023.12.21-22.07.40:691][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 1.95 sec)
+[2023.12.21-22.07.40:705][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.12.21-22.07.40:714][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.12.21-22.07.40:722][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.12.21-22.07.40:723][759]AssetCheck: New page: Asset Save: IA_Sprint
+[2023.12.21-22.07.40:723][759]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Sprint.IA_Sprint
+[2023.12.21-22.08.04:829][  7]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Sprint.IA_Sprint
+[2023.12.21-22.08.06:758][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.08.06:829][120]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Sprint
+[2023.12.21-22.08.06:830][120]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/IA_Sprint41D119834BCD765FEE53A69BEF0A552E.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset'
+[2023.12.21-22.08.06:833][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.03 sec)
+[2023.12.21-22.08.06:834][120]AssetCheck: New page: Asset Save: IA_Sprint
+[2023.12.21-22.08.06:834][120]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Sprint.IA_Sprint
+[2023.12.21-22.08.23:935][611]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.21-22.09.11:251][ 66]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.21-22.09.29:210][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.09.29:289][124]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2023.12.21-22.09.29:289][124]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/IMC_Default16FDFBAE44EC92B93C83B1BA4605D945.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2023.12.21-22.09.29:293][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.11 sec)
+[2023.12.21-22.09.29:295][124]AssetCheck: New page: Asset Save: IMC_Default
+[2023.12.21-22.09.29:295][124]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.21-22.10.32:685][368]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.10.32:696][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.32:696][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.32:698][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.32:698][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.32:700][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.32:700][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.32:718][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.21-22.10.32:728][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.32:728][368]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.47:657][212]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.10.47:667][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.47:667][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.47:671][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.47:671][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.47:674][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.47:674][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.47:693][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.21-22.10.47:704][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.10.47:704][212]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.10.51:587][433]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.21-22.10.53:193][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.10.53:270][527]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2023.12.21-22.10.53:270][527]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/IMC_Default66B0460943441DF145DB54AACAC959FA.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2023.12.21-22.10.53:275][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.19 sec)
+[2023.12.21-22.10.53:276][527]AssetCheck: New page: Asset Save: IMC_Default
+[2023.12.21-22.10.53:276][527]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.21-22.10.53:388][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.10.53:502][534]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2023.12.21-22.10.53:503][534]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/IMC_DefaultAEA36E004D9B3FF838EE01BF8514EE1D.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2023.12.21-22.10.53:506][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.31 sec)
+[2023.12.21-22.10.53:507][534]AssetCheck: New page: Asset Save: IMC_Default
+[2023.12.21-22.10.53:507][534]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.21-22.10.53:764][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.10.53:879][550]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2023.12.21-22.10.53:879][550]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/IMC_Default60A215D2475DC674CD108E97BDCD3918.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2023.12.21-22.10.53:882][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.43 sec)
+[2023.12.21-22.10.53:884][550]AssetCheck: New page: Asset Save: IMC_Default
+[2023.12.21-22.10.53:884][550]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.21-22.10.54:123][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.10.54:244][565]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2023.12.21-22.10.54:245][565]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/IMC_Default1E9652224A0543F2EC668C9F54F0FA5B.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2023.12.21-22.10.54:247][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2.55 sec)
+[2023.12.21-22.10.54:250][565]AssetCheck: New page: Asset Save: IMC_Default
+[2023.12.21-22.10.54:250][565]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.12.21-22.17.34:477][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.12.21-22.17.34:480][  2]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Custom/Levels/Level_Environment' took 0.013
+[2023.12.21-22.17.34:480][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.12.21-22.17.34:600][  2]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.12.21-22.17.34:600][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.12.21-22.17.34:610][  2]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2023.12.21-22.17.34:610][  2]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter_Auto4BDA2DE2B402F07682AB04FBA80B28798.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2023.12.21-22.17.34:611][  2]LogFileHelpers: Auto-saving content packages took 0.131
+[2023.12.21-22.19.31:377][354]LogDerivedDataCache: C:/Users/elain/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.131 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8226 files in 10013 folders with total size 1188 MiB.
+[2023.12.21-22.23.37:157][877]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.23.37:168][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.23.37:168][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.23.37:174][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.23.37:175][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.23.37:179][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.23.37:179][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.23.37:205][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.21-22.23.37:219][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.23.37:219][877]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.24.01:428][472]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.24.01:438][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.24.01:438][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.24.01:442][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.24.01:442][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.24.01:446][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.24.01:446][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.24.01:465][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.12.21-22.24.01:477][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.24.01:477][472]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.24.01:988][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.24.02:112][494]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-22.24.02:112][494]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacterEB9D21624C21EA7A677DC8BDBBB3A866.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-22.24.02:117][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.68 sec)
+[2023.12.21-22.24.02:119][494]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-22.24.02:119][494]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-22.25.16:309][552]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.25.16:320][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.25.16:320][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.25.16:323][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.25.16:323][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.25.16:327][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.25.16:327][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.25.16:346][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.12.21-22.25.16:358][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.25.16:358][552]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.25.17:257][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.25.17:389][597]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-22.25.17:390][597]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter646319BF4F9715A9182414AE1339B67C.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-22.25.17:396][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 2.82 sec)
+[2023.12.21-22.25.17:397][597]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-22.25.17:397][597]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-22.26.21:628][763]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.26.21:649][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.26.21:649][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.26.21:652][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.26.21:652][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.26.21:656][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.26.21:656][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.26.21:677][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.12.21-22.26.21:689][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.26.21:689][763]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.26.22:616][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.26.22:753][808]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-22.26.22:753][808]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter0AF0C2834E41528CE3421F9F746B5DD0.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-22.26.22:759][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 2.96 sec)
+[2023.12.21-22.26.22:760][808]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-22.26.22:760][808]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-22.27.35:121][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.12.21-22.27.35:124][299]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Custom/Levels/Level_Environment' took 0.015
+[2023.12.21-22.27.35:124][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.12.21-22.27.35:223][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.12.21-22.27.35:223][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.12.21-22.27.35:235][299]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2023.12.21-22.27.35:235][299]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter_Auto596F0386D4E007A19932F7584A9EEDA5D.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2023.12.21-22.27.35:236][299]LogFileHelpers: Auto-saving content packages took 0.111
+[2023.12.21-22.30.05:685][404]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.30.05:697][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.30.05:697][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.30.05:704][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.30.05:704][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.30.05:708][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.30.05:708][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.30.05:733][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.21-22.30.05:745][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.30.05:745][404]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.37.35:735][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.12.21-22.37.35:738][148]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Custom/Levels/Level_Environment' took 0.017
+[2023.12.21-22.37.35:738][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.12.21-22.37.35:835][148]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.12.21-22.37.35:837][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.12.21-22.37.35:848][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2023.12.21-22.37.35:848][148]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter_Auto6B1A664824B55BEDD073392AA9DAC0735.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2023.12.21-22.37.35:849][148]LogFileHelpers: Auto-saving content packages took 0.111
+[2023.12.21-22.49.02:979][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.21-22.49.02:983][225]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Custom/Levels/Level_Environment' took 0.014
+[2023.12.21-22.49.02:984][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.12.21-22.49.03:082][225]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.12.21-22.49.03:082][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.12.21-22.49.03:096][225]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2023.12.21-22.49.03:096][225]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter_Auto719BA565247FBEC3D73E9DA89A7A2F9F4.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2023.12.21-22.49.03:096][225]LogFileHelpers: Auto-saving content packages took 0.113
+[2023.12.21-22.52.26:294][559]LogBlueprint: Warning: [AssetLog] C:\Users\elain\OneDrive\Desktop\Msc Games\Software Engineering\CA2\github\CA2\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  StaminaEvt  and was replaced as a Custom Event!
+[2023.12.21-22.56.09:444][422]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.56.09:458][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.56.09:458][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.56.09:462][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.56.09:462][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.56.09:467][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.56.09:467][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.56.09:488][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.12.21-22.56.09:500][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.56.09:500][422]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.56.10:311][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.56.10:458][457]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-22.56.10:458][457]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter498744954D450730ACCF2B81B310B780.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-22.56.10:463][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 3.12 sec)
+[2023.12.21-22.56.10:466][457]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-22.56.10:466][457]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-22.57.07:936][345]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.57.07:950][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.57.07:950][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.57.07:954][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.57.07:954][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.57.07:957][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.57.07:957][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.57.07:980][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.21-22.57.07:991][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.57.07:991][345]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.57.08:943][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.57.09:078][393]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-22.57.09:079][393]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter83F63784435B483044F4B98A1A606E18.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-22.57.09:084][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 3.26 sec)
+[2023.12.21-22.57.09:085][393]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-22.57.09:085][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-22.58.05:788][652]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-22.58.05:803][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.58.05:803][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.58.05:806][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.58.05:806][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.58.05:810][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.58.05:810][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.58.05:833][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.21-22.58.05:844][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-22.58.05:844][652]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-22.58.06:538][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.58.06:682][680]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-22.58.06:683][680]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacterA5D7279D4A5B98E670C29DBCF90A2098.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-22.58.06:688][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.41 sec)
+[2023.12.21-22.58.06:689][680]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-22.58.06:689][680]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-22.59.03:938][387]LogSlate: Window 'Widget Reflector' being destroyed
+[2023.12.21-22.59.03:942][387]LogSlate: Window 'Widget Reflector' being destroyed
+[2023.12.21-22.59.06:261][523]BlueprintLog: New page: Compile HealthStaminaBarWidget
+[2023.12.21-22.59.06:280][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.12.21-22.59.07:171][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-22.59.07:260][566]LogSavePackage: Moving output files for package: /Game/Custom/UI/HealthStaminaBarWidget
+[2023.12.21-22.59.07:261][566]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidgetEB9E7CD14BFF836A746748A4D6312607.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/UI/HealthStaminaBarWidget.uasset'
+[2023.12.21-22.59.07:264][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.50 sec)
+[2023.12.21-22.59.07:266][566]AssetCheck: New page: Asset Save: HealthStaminaBarWidget
+[2023.12.21-22.59.07:266][566]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget
+[2023.12.21-23.02.30:795][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.21-23.02.30:804][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Custom/Levels/Level_Environment' took 0.022
+[2023.12.21-23.02.30:815][270]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Custom/UI/HealthStaminaBarWidget] ([2] browsable assets)...
+[2023.12.21-23.02.30:819][270]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget]
+[2023.12.21-23.02.30:819][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/UI/HealthStaminaBarWidget]
+[2023.12.21-23.02.30:825][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Custom/UI/HealthStaminaBarWidget_Auto8
+[2023.12.21-23.02.30:825][270]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidget_Auto83AFB20CA4FF35BB15BFECDA4FA8E4BB5.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/Autosaves/Game/Custom/UI/HealthStaminaBarWidget_Auto8.uasset'
+[2023.12.21-23.02.30:826][270]LogFileHelpers: Auto-saving content packages took 0.021
+[2023.12.21-23.03.03:419][176]LogEditorTransaction: Undo Move Node
+[2023.12.21-23.03.04:131][206]LogEditorTransaction: Undo Paste clipboard contents
+[2023.12.21-23.05.36:749][691]BlueprintLog: New page: Compile HealthStaminaBarWidget
+[2023.12.21-23.05.36:770][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.12.21-23.05.37:689][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.05.37:770][742]LogSavePackage: Moving output files for package: /Game/Custom/UI/HealthStaminaBarWidget
+[2023.12.21-23.05.37:771][742]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidgetFE16AB514EDC19ADC0DCA1988F0848B4.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/UI/HealthStaminaBarWidget.uasset'
+[2023.12.21-23.05.37:775][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.58 sec)
+[2023.12.21-23.05.37:777][742]AssetCheck: New page: Asset Save: HealthStaminaBarWidget
+[2023.12.21-23.05.37:777][742]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget
+[2023.12.21-23.05.39:078][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.05.39:083][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-23.05.39:083][819]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:05:39)
+[2023.12.21-23.05.39:113][819]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2023.12.21-23.05.39:115][819]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.12.21-23.05.39:125][820]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.05.39:131][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006478s)
+[2023.12.21-23.05.39:131][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006515s)
+[2023.12.21-23.05.39:143][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.21-23.05.39:150][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.05.39:150][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.05.39:150][820]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.05.39:151][820]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2023.12.21-23.05.39:151][820]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.12.21-23.05.39:151][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.05.39:151][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.05.39:151][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.05.39:151][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.05.39:151][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.05.39:151][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.05.39:151][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.05.39:151][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.05.39:151][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.05.39:151][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.05.39:151][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.05.39:153][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.05.39:188][820]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.05.39:188][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.05.39:188][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.05.39:188][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.05.39:188][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.12.21-23.05.39:188][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.12.21-23.05.39:189][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.12.21-23.05.39:189][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.12.21-23.05.39:189][820]LogInit: FAudioDevice initialized with ID 10.
+[2023.12.21-23.05.39:189][820]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_Environment'.
+[2023.12.21-23.05.39:189][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.21-23.05.39:192][820]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.05.39:193][820]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.05.39
+[2023.12.21-23.05.39:193][820]LogWorld: Bringing up level for play took: 0.001984
+[2023.12.21-23.05.39:195][820]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.05.39:195][820]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.05.39:201][820]PIE: Server logged in
+[2023.12.21-23.05.39:202][820]PIE: Play in editor total start time 0.12 seconds.
+[2023.12.21-23.06.02:764][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.06.02:764][229]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.06.02:764][229]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.06.02:765][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.06.02:771][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.06.02:775][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.06.02:784][229]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-23.06.02:784][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.21-23.06.02:784][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.21-23.06.02:786][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.21-23.06.02:791][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.06.02:793][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.12.21-23.06.02:871][231]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.12.21-23.07.01:901][138]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-23.07.01:919][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.07.01:919][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.07.01:922][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.07.01:922][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.07.01:923][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.07.01:923][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.07.01:943][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.12.21-23.07.01:956][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.07.01:956][138]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.07.02:877][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.07.03:017][187]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-23.07.03:017][187]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacterC115DE024C1F7195E7DD6AA27CDE4340.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-23.07.03:022][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.73 sec)
+[2023.12.21-23.07.03:023][187]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-23.07.03:023][187]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-23.07.38:598][305]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.07.38:602][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-23.07.38:602][305]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:07:38)
+[2023.12.21-23.07.38:602][305]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2023.12.21-23.07.38:605][305]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.12.21-23.07.38:616][306]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.07.38:622][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006247s)
+[2023.12.21-23.07.38:622][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006280s)
+[2023.12.21-23.07.38:632][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.21-23.07.38:638][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.07.38:638][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.07.38:639][306]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.07.38:639][306]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2023.12.21-23.07.38:639][306]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.21-23.07.38:639][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.07.38:639][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.07.38:639][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.07.38:639][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.07.38:639][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.07.38:639][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.07.38:639][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.07.38:639][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.07.38:639][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.07.38:639][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.07.38:639][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.07.38:641][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.07.38:675][306]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.07.38:675][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.07.38:675][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.07.38:675][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.07.38:676][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.21-23.07.38:676][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.21-23.07.38:676][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.21-23.07.38:676][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.21-23.07.38:676][306]LogInit: FAudioDevice initialized with ID 11.
+[2023.12.21-23.07.38:676][306]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_Environment'.
+[2023.12.21-23.07.38:676][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.21-23.07.38:748][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.07.38:748][306]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.07.38:751][306]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.07.38
+[2023.12.21-23.07.38:751][306]LogWorld: Bringing up level for play took: 0.002040
+[2023.12.21-23.07.38:752][306]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.07.38:752][306]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.07.38:760][306]PIE: Server logged in
+[2023.12.21-23.07.38:760][306]PIE: Play in editor total start time 0.157 seconds.
+[2023.12.21-23.07.38:766][306]LogViewport: Scene viewport resized to 1292x800, mode Windowed.
+[2023.12.21-23.07.44:377][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.07.44:377][630]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.07.44:377][630]LogSlate: Window 'CA2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.21-23.07.44:381][630]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.07.44:381][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.07.44:386][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.07.44:390][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.07.44:400][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-23.07.44:401][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.21-23.07.44:401][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.21-23.07.44:407][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.21-23.07.44:414][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.12.21-23.07.44:457][632]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.12.21-23.07.50:854][ 13]LogEditorTransaction: Undo Move Anchor
+[2023.12.21-23.08.06:340][892]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.08.06:344][892]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.21-23.08.06:347][892]LogPlayLevel: [PlayLevel] Compiling HealthStaminaBarWidget before play...
+[2023.12.21-23.08.06:466][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.12.21-23.08.06:469][892]LogPlayLevel: PlayLevel: Blueprint regeneration took 123 ms (1 blueprints)
+[2023.12.21-23.08.06:469][892]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:08:06)
+[2023.12.21-23.08.06:469][892]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2023.12.21-23.08.06:471][892]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.12.21-23.08.06:522][893]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.08.06:529][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006350s)
+[2023.12.21-23.08.06:529][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006381s)
+[2023.12.21-23.08.06:538][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.21-23.08.06:545][893]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.08.06:545][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.08.06:546][893]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.08.06:546][893]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2023.12.21-23.08.06:546][893]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.21-23.08.06:546][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.08.06:546][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.08.06:546][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.08.06:547][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.08.06:547][893]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.08.06:547][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.08.06:547][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.08.06:547][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.08.06:547][893]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.08.06:547][893]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.08.06:547][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.08.06:548][893]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.08.06:581][893]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.08.06:581][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.08.06:581][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.08.06:582][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.08.06:582][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.21-23.08.06:582][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.21-23.08.06:583][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.21-23.08.06:583][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.21-23.08.06:583][893]LogInit: FAudioDevice initialized with ID 12.
+[2023.12.21-23.08.06:583][893]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_Environment'.
+[2023.12.21-23.08.06:583][893]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.21-23.08.06:682][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.08.06:682][893]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.08.06:684][893]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.08.06
+[2023.12.21-23.08.06:684][893]LogWorld: Bringing up level for play took: 0.002085
+[2023.12.21-23.08.06:685][893]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.08.06:685][893]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.08.06:691][893]PIE: Server logged in
+[2023.12.21-23.08.06:693][893]PIE: Play in editor total start time 0.348 seconds.
+[2023.12.21-23.08.06:716][893]LogViewport: Scene viewport resized to 1295x820, mode Windowed.
+[2023.12.21-23.08.17:138][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.08.17:138][504]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.08.17:138][504]LogSlate: Window 'CA2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.21-23.08.17:142][504]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.08.17:142][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.08.17:146][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.08.17:150][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.08.17:161][504]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.21-23.08.17:161][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.21-23.08.17:164][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.21-23.08.17:172][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.21-23.08.17:213][506]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.12.21-23.08.20:374][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.08.20:464][694]LogSavePackage: Moving output files for package: /Game/Custom/UI/HealthStaminaBarWidget
+[2023.12.21-23.08.20:464][694]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidgetA1B9551E42413A7DEFE4E7B558206497.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/UI/HealthStaminaBarWidget.uasset'
+[2023.12.21-23.08.20:470][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 3.82 sec)
+[2023.12.21-23.08.20:471][694]AssetCheck: New page: Asset Save: HealthStaminaBarWidget
+[2023.12.21-23.08.20:471][694]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget
+[2023.12.21-23.09.52:039][165]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-23.09.52:057][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.09.52:057][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.09.52:061][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.09.52:061][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.09.52:065][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.09.52:065][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.09.52:085][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.21-23.09.52:102][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.09.52:102][165]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.09.52:909][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.09.53:052][207]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-23.09.53:052][207]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter7F84DEFC47BA4C6195B6DE9FA3E70E60.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-23.09.53:058][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.97 sec)
+[2023.12.21-23.09.53:059][207]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-23.09.53:059][207]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-23.09.55:278][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.09.55:282][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-23.09.55:282][331]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:09:55)
+[2023.12.21-23.09.55:282][331]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2023.12.21-23.09.55:284][331]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.12.21-23.09.55:294][332]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.09.55:301][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006544s)
+[2023.12.21-23.09.55:301][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006578s)
+[2023.12.21-23.09.55:311][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.21-23.09.55:319][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.09.55:319][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.09.55:319][332]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.09.55:319][332]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2023.12.21-23.09.55:319][332]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.21-23.09.55:319][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.09.55:319][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.09.55:319][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.09.55:319][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.09.55:319][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.09.55:319][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.09.55:319][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.09.55:319][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.09.55:320][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.09.55:320][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.09.55:320][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.09.55:321][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.09.55:356][332]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.09.55:356][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.09.55:356][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.09.55:356][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.09.55:357][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.21-23.09.55:357][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.21-23.09.55:359][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.21-23.09.55:359][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.21-23.09.55:359][332]LogInit: FAudioDevice initialized with ID 13.
+[2023.12.21-23.09.55:359][332]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_Environment'.
+[2023.12.21-23.09.55:359][332]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.21-23.09.55:361][332]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.09.55:362][332]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.09.55
+[2023.12.21-23.09.55:362][332]LogWorld: Bringing up level for play took: 0.001974
+[2023.12.21-23.09.55:365][332]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.09.55:365][332]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.09.55:371][332]PIE: Server logged in
+[2023.12.21-23.09.55:371][332]PIE: Play in editor total start time 0.089 seconds.
+[2023.12.21-23.10.16:300][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.10.16:300][583]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.10.16:300][583]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.10.16:301][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.10.16:304][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.10.16:309][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.10.16:319][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-23.10.16:319][583]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.12.21-23.10.16:319][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.21-23.10.16:321][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.21-23.10.16:325][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.10.16:327][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.12.21-23.10.16:404][585]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.12.21-23.11.49:175][257]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-23.11.49:189][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.11.49:189][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.11.49:192][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.11.49:192][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.11.49:195][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.11.49:195][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.11.49:212][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.12.21-23.11.49:226][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.11.49:226][257]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.11.49:823][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.11.49:981][285]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-23.11.49:982][285]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacterEA29373D45E5D2F65CC6CDB96AE3D28F.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-23.11.49:987][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 4.14 sec)
+[2023.12.21-23.11.49:988][285]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-23.11.49:988][285]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-23.11.54:178][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.11.54:182][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-23.11.54:182][531]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:11:54)
+[2023.12.21-23.11.54:203][531]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2023.12.21-23.11.54:205][531]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.12.21-23.11.54:215][532]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.11.54:221][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006216s)
+[2023.12.21-23.11.54:221][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006249s)
+[2023.12.21-23.11.54:233][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.21-23.11.54:240][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.11.54:240][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.11.54:240][532]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.11.54:241][532]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.12.21-23.11.54:241][532]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.12.21-23.11.54:241][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.11.54:241][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.11.54:241][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.11.54:241][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.11.54:241][532]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.11.54:241][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.11.54:241][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.11.54:241][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.11.54:241][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.11.54:241][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.11.54:241][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.11.54:243][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.11.54:275][532]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.11.54:276][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.11.54:276][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.11.54:276][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.11.54:276][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.12.21-23.11.54:276][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.12.21-23.11.54:278][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.12.21-23.11.54:278][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.12.21-23.11.54:278][532]LogInit: FAudioDevice initialized with ID 14.
+[2023.12.21-23.11.54:278][532]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_Environment'.
+[2023.12.21-23.11.54:278][532]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.21-23.11.54:279][532]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.11.54:282][532]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.11.54
+[2023.12.21-23.11.54:282][532]LogWorld: Bringing up level for play took: 0.001936
+[2023.12.21-23.11.54:284][532]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.11.54:284][532]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.11.54:289][532]PIE: Server logged in
+[2023.12.21-23.11.54:289][532]PIE: Play in editor total start time 0.107 seconds.
+[2023.12.21-23.12.05:993][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.12.05:993][229]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.12.05:994][229]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.12.05:994][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.12.05:998][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.12.06:001][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.12.06:011][229]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-23.12.06:011][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.12.21-23.12.06:011][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.21-23.12.06:013][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.21-23.12.06:017][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.12.06:019][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.12.21-23.12.06:053][230]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.12.21-23.14.53:963][757]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-23.14.53:981][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.14.53:981][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.14.53:983][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.14.53:983][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.14.53:986][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.14.53:986][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.14.54:006][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.12.21-23.14.54:024][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.14.54:024][757]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.14.54:597][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.14.54:755][785]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-23.14.54:755][785]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter70D52CF54D6F9DC5F7902E9ADEA39EAB.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-23.14.54:761][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 4.30 sec)
+[2023.12.21-23.14.54:763][785]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-23.14.54:763][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-23.14.55:880][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.14.55:883][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-23.14.55:883][849]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:14:55)
+[2023.12.21-23.14.55:883][849]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2023.12.21-23.14.55:886][849]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.12.21-23.14.55:897][850]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.14.55:903][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006413s)
+[2023.12.21-23.14.55:903][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006450s)
+[2023.12.21-23.14.55:915][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.12.21-23.14.55:923][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.14.55:923][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.14.55:924][850]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.14.55:924][850]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2023.12.21-23.14.55:924][850]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.21-23.14.55:924][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.14.55:924][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.14.55:924][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.14.55:924][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.14.55:924][850]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.14.55:924][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.14.55:924][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.14.55:924][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.14.55:924][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.14.55:924][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.14.55:924][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.14.55:926][850]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.14.55:961][850]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.14.55:962][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.14.55:962][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.14.55:962][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.14.55:963][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.21-23.14.55:963][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.21-23.14.55:964][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.21-23.14.55:964][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.21-23.14.55:964][850]LogInit: FAudioDevice initialized with ID 15.
+[2023.12.21-23.14.55:964][850]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_Environment'.
+[2023.12.21-23.14.55:964][850]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.21-23.14.55:966][850]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.14.55:967][850]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.14.55
+[2023.12.21-23.14.55:968][850]LogWorld: Bringing up level for play took: 0.001994
+[2023.12.21-23.14.55:969][850]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.14.55:969][850]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.14.55:975][850]PIE: Server logged in
+[2023.12.21-23.14.55:975][850]PIE: Play in editor total start time 0.092 seconds.
+[2023.12.21-23.15.09:978][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.15.09:978][685]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.15.09:978][685]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.15.09:979][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.15.09:982][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.15.09:985][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.15.09:996][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-23.15.09:996][685]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.12.21-23.15.09:996][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.21-23.15.09:998][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.21-23.15.10:002][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.15.10:004][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.12.21-23.15.10:038][686]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.12.21-23.16.34:486][655]BlueprintLog: New page: Compile HealthStaminaBarWidget
+[2023.12.21-23.16.34:504][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.21-23.16.35:293][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.16.35:380][698]LogSavePackage: Moving output files for package: /Game/Custom/UI/HealthStaminaBarWidget
+[2023.12.21-23.16.35:380][698]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidget95F4208E413BE8F0CC9356B973E72FF2.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/UI/HealthStaminaBarWidget.uasset'
+[2023.12.21-23.16.35:384][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.39 sec)
+[2023.12.21-23.16.35:385][698]AssetCheck: New page: Asset Save: HealthStaminaBarWidget
+[2023.12.21-23.16.35:385][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget
+[2023.12.21-23.16.41:927][ 80]BlueprintLog: New page: Compile HealthStaminaBarWidget
+[2023.12.21-23.16.41:947][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.12.21-23.16.42:633][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.16.42:728][118]LogSavePackage: Moving output files for package: /Game/Custom/UI/HealthStaminaBarWidget
+[2023.12.21-23.16.42:728][118]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/HealthStaminaBarWidgetE0AD34AD40D54F345088419392032ABB.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/UI/HealthStaminaBarWidget.uasset'
+[2023.12.21-23.16.42:732][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 4.49 sec)
+[2023.12.21-23.16.42:735][118]AssetCheck: New page: Asset Save: HealthStaminaBarWidget
+[2023.12.21-23.16.42:735][118]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/HealthStaminaBarWidget.HealthStaminaBarWidget
+[2023.12.21-23.16.43:975][190]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.16.43:979][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-23.16.43:979][190]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:16:43)
+[2023.12.21-23.16.43:999][190]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2023.12.21-23.16.44:002][190]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.12.21-23.16.44:012][191]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.16.44:019][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006399s)
+[2023.12.21-23.16.44:019][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006433s)
+[2023.12.21-23.16.44:028][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.21-23.16.44:033][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.16.44:033][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.16.44:033][191]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.16.44:033][191]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2023.12.21-23.16.44:033][191]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.12.21-23.16.44:033][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.16.44:033][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.16.44:033][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.16.44:033][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.16.44:033][191]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.16.44:033][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.16.44:033][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.16.44:033][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.16.44:034][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.16.44:034][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.16.44:034][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.16.44:035][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.16.44:069][191]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.16.44:069][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.16.44:069][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.16.44:069][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.16.44:070][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.12.21-23.16.44:070][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.12.21-23.16.44:071][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.12.21-23.16.44:071][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.12.21-23.16.44:071][191]LogInit: FAudioDevice initialized with ID 16.
+[2023.12.21-23.16.44:071][191]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_Environment'.
+[2023.12.21-23.16.44:071][191]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.21-23.16.44:073][191]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.16.44:075][191]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.16.44
+[2023.12.21-23.16.44:075][191]LogWorld: Bringing up level for play took: 0.001882
+[2023.12.21-23.16.44:077][191]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.16.44:077][191]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.16.44:083][191]PIE: Server logged in
+[2023.12.21-23.16.44:083][191]PIE: Play in editor total start time 0.104 seconds.
+[2023.12.21-23.16.54:230][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.16.54:230][795]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.16.54:231][795]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.16.54:231][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.16.54:237][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.16.54:241][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.16.54:249][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-23.16.54:249][795]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.12.21-23.16.54:249][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.21-23.16.54:251][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.21-23.16.54:256][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.16.54:258][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.21-23.16.54:334][797]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.12.21-23.17.02:894][302]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.21-23.17.02:910][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.17.02:910][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.17.02:913][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.17.02:913][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.17.02:915][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.17.02:915][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.17.02:935][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.21-23.17.02:947][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.17.02:947][302]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.17.03:465][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.21-23.17.03:621][325]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.21-23.17.03:621][325]LogSavePackage: Moving '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Saved/BP_ThirdPersonCharacter294302D64DF3503E9364498CBA3FE4CF.tmp' to '../../../../../Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.21-23.17.03:628][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 4.66 sec)
+[2023.12.21-23.17.03:629][325]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.21-23.17.03:629][325]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.21-23.17.04:833][395]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.21-23.17.04:837][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.21-23.17.04:837][395]PIE: New page: PIE session: Level_Environment (21 Dec 2023, 23:17:04)
+[2023.12.21-23.17.04:871][395]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2023.12.21-23.17.04:872][395]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.12.21-23.17.04:883][396]LogPlayLevel: Creating play world package: /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.17.04:889][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006416s)
+[2023.12.21-23.17.04:889][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Custom/Levels/Level_Environment.Level_Environment to /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment (0.006448s)
+[2023.12.21-23.17.04:900][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.12.21-23.17.04:906][396]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.21-23.17.04:906][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.21-23.17.04:907][396]LogAIModule: Creating AISystem for world Level_Environment
+[2023.12.21-23.17.04:907][396]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2023.12.21-23.17.04:907][396]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.12.21-23.17.04:907][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.21-23.17.04:907][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.21-23.17.04:907][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.21-23.17.04:907][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.21-23.17.04:907][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.21-23.17.04:907][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.21-23.17.04:907][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.21-23.17.04:907][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.21-23.17.04:907][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.21-23.17.04:907][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.21-23.17.04:907][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.21-23.17.04:910][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.21-23.17.04:943][396]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.12.21-23.17.04:943][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.21-23.17.04:943][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.21-23.17.04:943][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.21-23.17.04:944][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.12.21-23.17.04:944][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.12.21-23.17.04:945][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.12.21-23.17.04:945][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.12.21-23.17.04:945][396]LogInit: FAudioDevice initialized with ID 17.
+[2023.12.21-23.17.04:945][396]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_Environment'.
+[2023.12.21-23.17.04:945][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.21-23.17.04:947][396]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.21-23.17.04:950][396]LogWorld: Bringing World /Game/Custom/Levels/UEDPIE_0_Level_Environment.Level_Environment up for play (max tick rate 60) at 2023.12.21-23.17.04
+[2023.12.21-23.17.04:950][396]LogWorld: Bringing up level for play took: 0.001919
+[2023.12.21-23.17.04:952][396]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.12.21-23.17.04:952][396]LogSkeletalMesh: Display: OnRegister[/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.SKM_Pirate_Full_01]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.12.21-23.17.04:957][396]PIE: Server logged in
+[2023.12.21-23.17.04:957][396]PIE: Play in editor total start time 0.12 seconds.
+[2023.12.21-23.17.32:122][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.17.32:122][ 21]LogWorld: BeginTearingDown for /Game/Custom/Levels/UEDPIE_0_Level_Environment
+[2023.12.21-23.17.32:122][ 21]LogWorld: UWorld::CleanupWorld for Level_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.12.21-23.17.32:122][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.17.32:125][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.21-23.17.32:129][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.21-23.17.32:140][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.21-23.17.32:140][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.12.21-23.17.32:140][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.21-23.17.32:141][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.12.21-23.17.32:146][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.21-23.17.32:148][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.12.21-23.17.32:223][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.12.21-23.17.39:127][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
