@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ABP_Quinn_Pirate.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/Blueprints/BP_Door.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/NewMap_Test.umap",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Greek_island/Assets/Houses/SM_house_04.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/StarterContent/Props/SM_DoorFrame.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Level_Environment.umap",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/Materials/M_Landscape.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/Materials/Cliff_LayerInfo.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/Materials/Grass_LayerInfo.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/Materials/Sand_LayerInfo.uasset",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/Levels/Level_Environment.umap",
+				"C:/Users/elain/OneDrive/Desktop/Msc Games/Software Engineering/CA2/github/CA2/Content/Custom/Level_Environment.umap"
+			]
+		}
+	]
+}
